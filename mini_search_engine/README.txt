@@ -1,0 +1,1 @@
+This repository contains a miniature search engine I was prompted to create by an author while working through a set of his textbook exercises. To be honest, I cannot know if what I've create meets the author's expectations. The goal was to create a miniature search, and I was successful in that much, at least.
